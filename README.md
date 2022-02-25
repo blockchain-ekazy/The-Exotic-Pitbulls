@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# ![The Exotic Pitbulls](https://user-images.githubusercontent.com/100062048/155754882-b21f99af-6bb5-401a-99c7-006c57d5089f.png)
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
